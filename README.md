@@ -4,4 +4,3 @@
 下面是效果图  
 
 ![image](https://raw.githubusercontent.com/xiao-er/ViewFlipper/master/app/src/main/res/img/GIF.gif )
-[string](https://app.ananjets.com:8445/runner/ws/ct/obcity)
