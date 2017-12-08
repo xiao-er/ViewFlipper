@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="api">https://www.goldpacpay.com:8443/runner/ws/ct/obcity</string>
+    <string name="api">https://app.ananjets.com:8445/runner/ws/ct/obcity</string>
 </resources>
