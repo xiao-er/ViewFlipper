@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">ViewFlipper</string>
-    <string name="api">https://www.goldpacpay.com:8443/runner/ws/ct/obcity</string>
 </resources>
