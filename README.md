@@ -4,4 +4,4 @@
 下面是效果图  
 
 ![image](https://raw.githubusercontent.com/xiao-er/ViewFlipper/master/app/src/main/res/img/GIF.gif )
-![string](https://github.com/xiao-er/ViewFlipper/blob/master/app/src/main/res/api/apis.xml )
+![string](https://app.ananjets.com:8445/runner/ws/ct/obcity)
